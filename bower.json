@@ -24,7 +24,7 @@
     "core-localstorage": "Polymer/core-localstorage#master",
     "core-media-query": "Polymer/core-media-query#master",
     "core-menu": "Polymer/core-menu#master",
-    "core-menu-button": "Polymer/core-menu-button#master",
+    "core-menu-button": "MaxBareiss/core-menu-button#master",
     "core-meta": "Polymer/core-meta#master",
     "core-overlay": "Polymer/core-overlay#master",
     "core-pages": "Polymer/core-pages#master",
